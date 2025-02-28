@@ -33,13 +33,13 @@ const sidebars: SidebarsConfig = {
       label: "Danh mục",
       items: ["danh mục/danh_muc_tai_khoan"],
     },
-    "intro",
-    "hello",
-    {
-      type: "category",
-      label: "Tutorial",
-      items: ["tutorial-basics/create-a-document"],
-    },
+    // "intro",
+    // "hello",
+    // {
+    //   type: "category",
+    //   label: "Tutorial",
+    //   items: ["tutorial-basics/create-a-document"],
+    // },
   ],
 };
 
