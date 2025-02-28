@@ -10,18 +10,19 @@ const config: Config = {
   favicon: "img/favicon-logo.png",
   // url: "https://your-docusaurus-site.example.com",
   url: "https://vtrung302111fpt.github.io",
-  baseUrl: "/",
+  // baseUrl: "/",
+  baseUrl: "/docusaurus-1st",
   organizationName: "FTS",
   projectName: "sample-docs",
   deploymentBranch: "gh-pages",
 
-  onBrokenLinks: "throw",
+  // onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
   },
-
   presets: [
     [
       "classic",

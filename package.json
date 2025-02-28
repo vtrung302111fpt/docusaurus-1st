@@ -3,13 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "deploy": "GIT_USER=vtrung302111fpt docusaurus deploy",
-  "predeploy": "docusaurus build",
+    "deploy": "docusaurus deploy",
+    "predeploy": "docusaurus build",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
@@ -30,6 +29,7 @@
     "@docusaurus/module-type-aliases": "3.7.0",
     "@docusaurus/tsconfig": "3.7.0",
     "@docusaurus/types": "3.7.0",
+    "gh-pages": "^6.3.0",
     "typescript": "~5.6.2"
   },
   "browserslist": {
