@@ -28,7 +28,7 @@ const config: Config = {
       "classic",
       {
         docs: {
-          routeBasePath: "/",
+          routeBasePath: "/.intro.md",
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           editUrl: "https://github.com/vtrung111203?tab=repositories",
