@@ -12,8 +12,8 @@ const config: Config = {
   url: "https://vtrung302111fpt.github.io", //đây dùng để deploy lên github
   // baseUrl: "/", //dùng cho npm run start
   baseUrl: "/docusaurus-1st", // dùng để deploy lên git
-  organizationName: "FTS",
-  projectName: "sample-docs",
+  organizationName: "vtrung302111fpt",
+  projectName: "docusaurus-1st",
   deploymentBranch: "gh-pages",
 
   // onBrokenLinks: "throw",
