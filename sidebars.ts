@@ -22,7 +22,11 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Khởi tạo chương trình",
-      items: ["khởi tạo chương trình/dang_nhap_phan_mem"],
+      items: [
+        "khởi tạo chương trình/dang_nhap_phan_mem",
+        "khởi tạo chương trình/doi_mat_khau",
+        "khởi tạo chương trình/cac_tien_ich_co_ban",
+      ],
     },
     {
       type: "category",

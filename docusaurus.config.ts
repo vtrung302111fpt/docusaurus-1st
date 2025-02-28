@@ -8,10 +8,10 @@ const config: Config = {
   title: "FTS ENO 2024 Documentation",
   tagline: "By Boom Boom Boom",
   favicon: "img/favicon-logo.png",
-  // url: "https://your-docusaurus-site.example.com",
-  url: "https://vtrung302111fpt.github.io",
-  baseUrl: "/",
-  // baseUrl: "/docusaurus-1st",
+  // url: "https://your-docusaurus-site.example.com", đây chỉ là ví dụ nên không cần giữ
+  url: "https://vtrung302111fpt.github.io", //đây dùng để deploy lên github
+  // baseUrl: "/", //dùng cho npm run start
+  baseUrl: "/docusaurus-1st", // dùng để deploy lên git
   organizationName: "FTS",
   projectName: "sample-docs",
   deploymentBranch: "gh-pages",
@@ -60,7 +60,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/logo.png",
     navbar: {
-      title: "Markdown Tutorial",
+      title: "FTS ENO 2024",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.png",
