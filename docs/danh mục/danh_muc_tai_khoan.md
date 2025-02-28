@@ -15,6 +15,7 @@ Là 1 danh mục quan trọng nhất của chương trình. Các bạn cần kha
 Các bạn cũng có thể khai báo thêm các tài khoản con, tài khoản chi tiết để phục vụ trong quá trình hạch toán, quản lý của doanh nghiệp. Bám phím F4 để khai báo thêm các tài khoản con theo nhu cầu hạch toán.
 
 **Chuyển phát sinh**
+
 Cho phép chuyển toàn bộ dữ liệu liên quan từ TK này sang TK khác trong 1 năm làm việc. Có thể áp dụng cho các trường hợp:
 
 - Muốn xoá một TK đã phát sinh dữ liệu
