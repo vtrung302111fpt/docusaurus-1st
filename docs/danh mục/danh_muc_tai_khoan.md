@@ -6,27 +6,26 @@ import Youtube from 'react-youtube';
 
 # Danh mục tài khoản
 
-## Nhập tài khoản
+Đường dẫn : **Dictionary** ---> **List** ---> **Dm Account**.
 
-Truy cập vào website phần mềm qua đường dẫn **[Enovestor 2024](http://enovestor.fts.local/login)**.
+Là 1 danh mục quan trọng nhất của chương trình. Các bạn cần khai báo đầy đủ tính chất của tài khoản hạch toán
 
-<!-- ![Log in Screen](./img/log_in_screen.png) -->
+![Danh muc tai khoan 1 Screen](./img/danh_muc_tai_khoan_1.jpg)
 
-## Vào mục thay đổi mật khẩu
+Các bạn cũng có thể khai báo thêm các tài khoản con, tài khoản chi tiết để phục vụ trong quá trình hạch toán, quản lý của doanh nghiệp. Bám phím F4 để khai báo thêm các tài khoản con theo nhu cầu hạch toán.
 
-Sau khi đăng nhập thành công, vào mục **Tên người dùng (2)** ở phía trên góc bên tay phải rồi chọn mục **Change Password (3)** có hình chìa khóa ở cạnh.
+**Chuyển phát sinh**
+Cho phép chuyển toàn bộ dữ liệu liên quan từ TK này sang TK khác trong 1 năm làm việc. Có thể áp dụng cho các trường hợp:
 
-<!-- ![User Profile Dropdown Screen](./img/user_profile_dropdown.png) -->
+- Muốn xoá một TK đã phát sinh dữ liệu
+- Chuyển dữ liệu từ TK tổng hợp xuống TK con
+- ...
 
-## Thay đổi mật khẩu
+**Thao tác:**
 
-Khi màn hình chuyển sang giao diện **Thay đổi mật khẩu**, hãy nhập lại **Mật khẩu cũ - Old Password** để xác nhận đúng mật khẩu ban đầu, sau đó nhập **Mật khẩu mới - New password** và xác nhận lại mật khẩu mới ô **Confirm Password**.
-
-Cuối cùng nhấn vào nút **Change Password** với hình
-chìa khóa bên cạnh để cập nhật mật khẩu mới.
-
-<!-- ![Change Password Screen](./img/change_password_screen.png) -->
+Tại danh mục tài khoản, chọn chức năng **Chuyển phát sinh**
+![Danh muc tai khoan 1 Screen](./img/danh_muc_tai_khoan_1.jpg)
 
 **Video hướng dẫn**:
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/9QlsEboxjUQ?si=5BZAmMAkvuvubSGt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

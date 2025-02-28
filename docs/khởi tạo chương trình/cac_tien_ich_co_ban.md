@@ -22,4 +22,4 @@ import Youtube from 'react-youtube';
 
 **Video hướng dẫn**:
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/9QlsEboxjUQ?si=5BZAmMAkvuvubSGt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
