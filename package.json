@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "deploy": "GIT_USER=vtrung302111fpt docusaurus deploy",
+  "predeploy": "docusaurus build",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
